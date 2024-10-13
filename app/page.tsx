@@ -12,6 +12,7 @@ export default function Home() {
 <li><Link href="about">about</Link></li>
 <li><Link href="contact">contact</Link></li>
 <li><Link href="service/">service</Link></li>
+<li><Link href="Webdev/">Webdev</Link></li>
 </ul>
 </div>
 </div>
